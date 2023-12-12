@@ -6,14 +6,7 @@ Welcome to the Chatbot project! This conversational agent is built using Python 
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
+- [Dependencies](#dependencies)
 
 ## Introduction
 
@@ -26,18 +19,9 @@ This project serves as a simple yet effective implementation of a chatbot using 
 - **Handling Unknown Inputs:** Responds gracefully to inputs it doesn't understand.
 - **Conversational Flow:** Engages in multi-turn conversations with users.
 
-## Demo
-
-![Chatbot Demo](link_to_chatbot_demo.gif)
-
-[Watch a demo video](link_to_demo_video) showcasing the chatbot in action.
-
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/chatbot.git
-   cd chatbot
+## Dependencies
+- **numpy:** For numerical operations.
+- **nltk:** Natural Language Toolkit for text processing.
+- **scikit-learn:** For TF-IDF vectorization and cosine similarity.
+- **string:** Standard library for string operations.
+- **random:** Standard library for generating random responses.
