@@ -2,7 +2,7 @@
 
 Welcome to the Chatbot project! This conversational agent is built using Python and the Natural Language Toolkit (NLTK). The chatbot responds to greetings, provides information about data science, and handles unknown inputs.
 
-## Demo
+## Demo video
 
 Watch a quick demo of the ChatBot:
 
